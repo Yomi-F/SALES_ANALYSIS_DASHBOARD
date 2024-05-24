@@ -1,4 +1,4 @@
-# SALES_ANALYSIS_DASHBOARD
+# SALES ANALYSIS DASHBOARD
 
 
 
@@ -75,6 +75,11 @@ The analysis is based on data on a dummy data
 
 ### This Project was carried out using the following tool
 - PowerBI Desktop
+
+
+### Data Documentation:
+
+The dataset used in this analysis is dummy data generated for illustrative purposes.
 
 
 
