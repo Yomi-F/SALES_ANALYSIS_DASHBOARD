@@ -2,7 +2,7 @@
 
 
 
-![](https://github.com/Yomi-F/SALES_DASHBOARD_ANALYSIS/blob/main/Sales%20Dashboard.png)
+![](https://github.com/Yomi-F/SALES_ANALYSIS_DASHBOARD/blob/main/SALES%20DASHBOARD%20.png)
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ This project showcases a comprehensive sales analysis using PowerBI, aimed at pr
 These KPIs provide a snapshot of the overall financial health of the business.
 
 ### 2. Revenue by Region
-![](https://github.com/Yomi-F/SALES_DASHBOARD_ANALYSIS/blob/main/REVENUE%20BY%20REGION.jpg)
+![](https://github.com/Yomi-F/SALES_ANALYSIS_DASHBOARD/blob/main/REVENUE%20BY%20REGION.png)
 
 The dashboard highlights sales distribution across four regions:
 - **West:** $1,600
@@ -28,7 +28,7 @@ The dashboard highlights sales distribution across four regions:
 Understanding regional performance helps in identifying areas with potential for growth or needing improvement.
 
 ### 3. Sales by Channels
-![](https://github.com/Yomi-F/SALES_DASHBOARD_ANALYSIS/blob/main/SALES%20BY%20CHANNELS.png)
+![](https://github.com/Yomi-F/SALES_ANALYSIS_DASHBOARD/blob/main/SALES%20BY%20CHANNELS.png)
 
 - **In-store:** $2.71K (57.29%)
 - **Online:** $2.02K (42.71%)
@@ -36,7 +36,7 @@ Understanding regional performance helps in identifying areas with potential for
 This breakdown reveals the contribution of each sales channel to the total revenue, emphasizing the importance of a balanced omnichannel strategy.
 
 ### 4. Top Products by Sales
-![](https://github.com/Yomi-F/SALES_DASHBOARD_ANALYSIS/blob/main/PRODUCT.jpg)
+![](https://github.com/Yomi-F/SALES_ANALYSIS_DASHBOARD/blob/main/TOP%20PRODUCTS%20BY%20SALES.png)
 
 The top-performing products are:
 - **Sunglasses:** $1,140
@@ -50,7 +50,7 @@ The top-performing products are:
 Identifying best-sellers assists in inventory management and marketing focus.
 
 ### 5. Revenue by Product Category
-![](https://github.com/Yomi-F/SALES_DASHBOARD_ANALYSIS/blob/main/REVENUE%20BY%20PRODUCT%20CATEGORY.jpg)
+![](https://github.com/Yomi-F/SALES_ANALYSIS_DASHBOARD/blob/main/REVENUE%20BY%20PRODUCT%20CATERGORY.png)
 - **Clothing:** $2.02K (42.71%)
 - **Footwear:** $1.99K (42.07%)
 - **Accessories:** $0.72K (15.22%)
@@ -58,14 +58,14 @@ Identifying best-sellers assists in inventory management and marketing focus.
 This segmentation helps in understanding which categories drive the most revenue.
 
 ### 6. Sales Target vs. Sales Actual
-![](https://github.com/Yomi-F/SALES_DASHBOARD_ANALYSIS/blob/main/SALES%20TARGET%20VS%20SALES%20ACTUAL.jpg)
-- **Sales Target:** $10.8K
+![](https://github.com/Yomi-F/SALES_ANALYSIS_DASHBOARD/blob/main/SALES%20TARGET%20VS%20%20SALES%20ACTUAL.png)
+- **Sales Target:** $20K
 - **Sales Actual:** $9.9K
 
 Tracking performance against targets enables goal-setting and performance evaluation.
 
 ### 7. Revenue Trend
-![](https://github.com/Yomi-F/SALES_DASHBOARD_ANALYSIS/blob/main/REVENUE%20TREND.jpg)
+![](https://github.com/Yomi-F/SALES_ANALYSIS_DASHBOARD/blob/main/REVENUE%20TREND.png)
 
 The revenue trend chart shows daily sales performance over a period, with notable peaks and troughs that indicate significant sales days and potential areas for improvement.
 
@@ -73,9 +73,9 @@ The revenue trend chart shows daily sales performance over a period, with notabl
 The analysis is based on data on a dummy data
 
 
-### THis Project was carried out using the following tools
+### This Project was carried out using the following tool
 - PowerBI Desktop
-- Excel
+
 
 
 
